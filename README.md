@@ -5,7 +5,7 @@ This project focuses on analyzing insurance data to identify trends in premiums,
 claims, customer behavior, and business performance using data analytics tools.
 
 ## 🛠 Tools & Technologies
-•  Power BI: Built interactive dashboards with KPI cards, trend analysis, and DAX measures to analyze premiums, claims, loss ratio, and retention.
+•  Power BI: Built interactive dashboards with KPI cards, trend analysis, and DAX measures to analyze premiums, claims, loss ratio, and retention by importing dafa fron mysql.
 
 •  Tableau: Developed visual dashboards for performance comparison, trend analysis, and segment-level insights.
 
