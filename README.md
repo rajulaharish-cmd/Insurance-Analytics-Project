@@ -10,6 +10,12 @@ claims, customer behavior, and business performance using data analytics tools.
 -  Microsoft Excel: Performed data cleaning, validation, and exploratory analysis using pivot tables and formulas.
 -  MySQL: Extracted and prepared data using joins, aggregations, and filters to support reporting and dashboard development.
 
+### Technical Highlights
+- Designed a star schema data model in Power BI to support scalable and accurate reporting
+- Created DAX measures for critical KPIs including Total Premium, Claims Ratio, and Loss Ratio
+- Built SQL queries using joins and aggregations for data extraction, validation, and transformation
+- Developed Calculated Fields and Parameters in Tableau to enable dynamic filtering and interactive analysis
+- Implemented Parameters in Power BI to support scenario-based analysis and flexible KPI views
 
 ## 📊 Key Analysis
 - Cross sell, Renewal, New Target insights
@@ -19,13 +25,11 @@ claims, customer behavior, and business performance using data analytics tools.
 - Claims ratio and loss analysis
 - Customer segmentation insights
 
-
-### Technical Highlights
-- Designed a star schema data model in Power BI to support scalable and accurate reporting
-- Created DAX measures for critical KPIs including Total Premium, Claims Ratio, and Loss Ratio
-- Built SQL queries using joins and aggregations for data extraction, validation, and transformation
-- Developed Calculated Fields and Parameters in Tableau to enable dynamic filtering and interactive analysis
-- Implemented Parameters in Power BI to support scenario-based analysis and flexible KPI views
+### Business impact
+- Performance tracking
+- Highlight top performing and underperforming executives
+- Revenue optimzation by product
+- perecentage of achived target
 
 ## 📂 Repository Structure
 - PowerBI/        → Power BI dashboards (.pbix)
