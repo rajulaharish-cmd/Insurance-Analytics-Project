@@ -12,10 +12,13 @@ claims, customer behavior, and business performance using data analytics tools.
 
 
 ## 📊 Key Analysis
-- Premium and policy trend analysis
+- Cross sell, Renewal, New Target insights
+- KPI dashboards for business decisions
+- Revenue by employees analysis
+- Revenue by product insights 
 - Claims ratio and loss analysis
 - Customer segmentation insights
-- KPI dashboards for business decisions
+
 
 ### Technical Highlights
 - Designed a star schema data model in Power BI to support scalable and accurate reporting
