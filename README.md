@@ -10,7 +10,6 @@ claims, customer behavior, and business performance using data analytics tools.
 •  Tableau: Developed visual dashboards for performance comparison, trend analysis, and segment-level insights.
 
 •  Microsoft Excel: Performed data cleaning, validation, and exploratory analysis using pivot tables and formulas.
-![Power BI](https://github.com/user-attachments/assets/a62bf25a-f7da-4d25-8f71-9f5ec519b6a6)
 
 •  MySQL: Extracted and prepared data using joins, aggregations, and filters to support reporting and dashboard development.
 
