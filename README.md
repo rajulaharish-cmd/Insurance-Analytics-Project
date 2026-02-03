@@ -48,7 +48,8 @@ claims, customer behavior, and business performance using data analytics tools.
 - https://public.tableau.com/views/InsuranceAnalyticsKPI/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 🧮 SQL Script
-[Analytics SQL.sql](https://github.com/user-attachments/files/25020625/Analytics.SQL.sql)script
+
+[Analytics SQL.sql](https://github.com/user-attachments/files/25020625/Analytics.SQL.sql) script
 
   ![Power BI](https://github.com/user-attachments/assets/e8c25a9a-1580-4195-aee6-e5f6c01325ac)
 
