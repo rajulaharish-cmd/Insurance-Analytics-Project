@@ -39,10 +39,8 @@ claims, customer behavior, and business performance using data analytics tools.
 - Screenshots/    → Dashboard images
 
 
--- Power BI
-Uploading Insurance Analytics.pbix 2026-02-03 10-56-05.mp4…
-
-
+- Power BI walkthrough video
+= click here https://drive.google.com/file/d/1EkH_Md0H3pcrvtnUfcWdhxQJGbFPaGIC/view?usp=sharing
 
 - Tableau Link
 https://public.tableau.com/views/InsuranceAnalyticsKPI/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
