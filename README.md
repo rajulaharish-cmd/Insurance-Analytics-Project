@@ -40,7 +40,9 @@ claims, customer behavior, and business performance using data analytics tools.
 
 
 -- Power BI
-<iframe title="Insurance Analytics.pbix" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=dff772cd-2cc2-4932-a815-ab1ca1a2c47c&autoAuth=true&ctid=67042456-3925-4ac1-b3e4-8eb2428ee5a4" frameborder="0" allowFullScreen="true"></iframe>
+Uploading Insurance Analytics.pbix 2026-02-03 10-56-05.mp4…
+
+
 
 - Tableau Link
 https://public.tableau.com/views/InsuranceAnalyticsKPI/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
