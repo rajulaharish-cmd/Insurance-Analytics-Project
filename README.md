@@ -40,10 +40,12 @@ claims, customer behavior, and business performance using data analytics tools.
 
 
 🎥 Power BI Dashboard Walkthrough
-= click here https://drive.google.com/file/d/1EkH_Md0H3pcrvtnUfcWdhxQJGbFPaGIC/view?usp=sharing
+
+- click here https://drive.google.com/file/d/1EkH_Md0H3pcrvtnUfcWdhxQJGbFPaGIC/view?usp=sharing
 
 📊 Tableau Public Dashboard
-https://public.tableau.com/views/InsuranceAnalyticsKPI/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+- https://public.tableau.com/views/InsuranceAnalyticsKPI/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 🧮 SQL Script
 [Analytics SQL.sql](https://github.com/user-attachments/files/25020625/Analytics.SQL.sql)script
