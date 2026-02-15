@@ -39,10 +39,6 @@ claims, customer behavior, and business performance using data analytics tools.
 - Screenshots/    → Dashboard images
 
 
-🎥 Power BI Dashboard Walkthrough
-
-- click here https://drive.google.com/file/d/1EkH_Md0H3pcrvtnUfcWdhxQJGbFPaGIC/view?usp=sharing
-
 📊 Tableau Public Dashboard
 
 - https://public.tableau.com/views/InsuranceAnalyticsKPI/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
